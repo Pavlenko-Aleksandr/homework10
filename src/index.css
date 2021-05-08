@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  #root {
+    background-image: url(https://th.bing.com/th/id/Rfecc08f6beaaf9069768b83c75918089?rik=HlX9BDOh0qOjrA&riu=http%3a%2f%2fwww.hdwallback.net%2fwp-content%2fuploads%2f2017%2f12%2fLight-Blue-Background-1280x720.jpg&ehk=L%2bM3h4MPaJzimMIy2lcH88mIKNY7%2bUSNqElUlr7ZP%2bM%3d&risl=&pid=ImgRaw);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #000;
+    min-height: 100vh;
+  }
